@@ -4,7 +4,6 @@ import Breadcrumb from "../components/Breadcrumbs";
 import ProductDetails from "../parts/Details/ProductDetails";
 import Suggestion from "../parts/Details/Suggestion";
 import Sitemap from "../parts/HomePage/Sitemap";
-import Clients from "../parts/Clients";
 import Footer from "../parts/Footer";
 
 function Details() {
@@ -20,7 +19,6 @@ function Details() {
       />
       <ProductDetails />
       <Suggestion />
-      <Clients />
       <Sitemap />
       <Footer />
     </>
